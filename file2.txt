@@ -1,1 +1,2 @@
 second commit in develop branch
+a change is made after merge.
